@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PgX+t5TwVpTzdIcDQGRL/vt4faCLT7IKdfGtvk8QG8Jt/bwOeyN53ic2xoDx1DbjUkadbVELjcz4Y5KnocLLMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\81805\\Desktop\\4byte\\No10\\No10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\81805\\.nuget\\packages\\crc32.net\\1.2.0\\crc32.net.1.2.0.nupkg.sha512",
+    "C:\\Users\\81805\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\81805\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

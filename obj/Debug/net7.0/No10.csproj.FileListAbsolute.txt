@@ -1,0 +1,17 @@
+C:\Users\81805\Desktop\4byte\No10\bin\Debug\net7.0\No10.exe
+C:\Users\81805\Desktop\4byte\No10\bin\Debug\net7.0\No10.deps.json
+C:\Users\81805\Desktop\4byte\No10\bin\Debug\net7.0\No10.runtimeconfig.json
+C:\Users\81805\Desktop\4byte\No10\bin\Debug\net7.0\No10.dll
+C:\Users\81805\Desktop\4byte\No10\bin\Debug\net7.0\No10.pdb
+C:\Users\81805\Desktop\4byte\No10\bin\Debug\net7.0\Crc32.NET.dll
+C:\Users\81805\Desktop\4byte\No10\obj\Debug\net7.0\No10.csproj.AssemblyReference.cache
+C:\Users\81805\Desktop\4byte\No10\obj\Debug\net7.0\No10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\81805\Desktop\4byte\No10\obj\Debug\net7.0\No10.AssemblyInfoInputs.cache
+C:\Users\81805\Desktop\4byte\No10\obj\Debug\net7.0\No10.AssemblyInfo.cs
+C:\Users\81805\Desktop\4byte\No10\obj\Debug\net7.0\No10.csproj.CoreCompileInputs.cache
+C:\Users\81805\Desktop\4byte\No10\obj\Debug\net7.0\No10.csproj.CopyComplete
+C:\Users\81805\Desktop\4byte\No10\obj\Debug\net7.0\No10.dll
+C:\Users\81805\Desktop\4byte\No10\obj\Debug\net7.0\refint\No10.dll
+C:\Users\81805\Desktop\4byte\No10\obj\Debug\net7.0\No10.pdb
+C:\Users\81805\Desktop\4byte\No10\obj\Debug\net7.0\No10.genruntimeconfig.cache
+C:\Users\81805\Desktop\4byte\No10\obj\Debug\net7.0\ref\No10.dll
